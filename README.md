@@ -46,7 +46,6 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Flip-Flop
-Positive D-Latch:
 ![image](https://github.com/user-attachments/assets/f03d866a-7554-4ea8-ba96-83c84f99b28e)
 
 
@@ -64,6 +63,9 @@ Positive D-Latch:
 ### 1. Transient Analysis Output
 Positive D-Latch
 ![image](https://github.com/user-attachments/assets/e47e7dae-ec05-43e9-bc32-e74d1911971c)
+Negative D-Latch
+![image](https://github.com/user-attachments/assets/74ebeca3-497f-4a71-81b1-a0c893755143)
+
 
 
 
