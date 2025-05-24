@@ -1,5 +1,3 @@
-# EXPERIMENT3
-D-LATCH
 # Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
 
 ## Aim
